@@ -1,5 +1,5 @@
 export interface ImaterialGridState {
-    // ID : number,
+    ID : number,
     InvoiceNo : number,
     CompanyName : string,
     Invoicedetails : string,
@@ -10,5 +10,6 @@ export interface ImaterialGridState {
     IsApproved : boolean,
     Country : string,
     IsDeleted : boolean,
+    headerCols : any,
     data : [],
 }
