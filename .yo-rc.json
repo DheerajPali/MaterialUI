@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.20.1",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.18.2",
+    "libraryName": "material-ui-grid-1",
+    "libraryId": "f07ac983-2467-42d8-9f2a-ae027dc55bfd",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "MaterialUIGrid1",
+    "solutionShortDescription": "MaterialUIGrid1 description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

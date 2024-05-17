@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "material-ui-grid-1-client-side-solution",
+    "id": "f07ac983-2467-42d8-9f2a-ae027dc55bfd",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.18.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "MaterialUIGrid1 description"
+      },
+      "longDescription": {
+        "default": "MaterialUIGrid1 description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "material-ui-grid-1 Feature",
+        "description": "The feature that activates elements of the material-ui-grid-1 solution.",
+        "id": "20ba532c-d1b4-4072-a24e-dc19da3ca3be",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/material-ui-grid-1.sppkg"
+  }
+}
